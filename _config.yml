@@ -28,7 +28,7 @@ twitter_username: charlesbluca
 github_username: charlesbluca
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 # Exclude from processing.
