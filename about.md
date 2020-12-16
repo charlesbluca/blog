@@ -1,18 +1,14 @@
 ---
 layout: page
-title: About
+title: Who am I?
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a software engineer at the Lamont-Doherty Earth Observatory, working on the [Pangeo project](https://pangeo.io).
+My work explores the intersection between climate science and cloud computing, and emphasizes contribution to open-source code.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Currently, I am focused on the creation, maintenance, and cataloging of large climate data collections in cloud storage, such as the [Coupled Model Intercomparison Project](https://www.wcrp-climate.org/wgcm-cmip).
+This has allowed me to work with a variety of packages in the scientific Python ecosystem, several cloud computing services across different providers, and even a handful of continuous integration pipelines.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I maintain this blog to serve as an active portfolio of my work, life, and general interests.
+For a more general overview, you can also check my [resume](https://www.example.com).
