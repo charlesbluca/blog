@@ -11,4 +11,4 @@ Currently, I am focused on the creation, maintenance, and cataloging of large cl
 This has allowed me to work with a variety of packages in the scientific Python ecosystem, several cloud computing services across different providers, and even a handful of continuous integration pipelines.
 
 I maintain this blog to serve as an active portfolio of my work, life, and general interests.
-For a more general overview, you can also check my [resume](/CharlesBlackmonLuca.pdf).
+For a more brief overview, you can also check my [resume](/CharlesBlackmonLuca.pdf).
