@@ -3,6 +3,7 @@ layout: post
 title: Obligatory first blog post
 subtitle: Why I made this blog and what I hope to accomplish with it
 tags: [personal]
+readtime: true
 ---
 
 Welcome to my personal blog!
